@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Adventure-website/static/css/main.5530a09f.chunk.css",
+    "main.js": "/Adventure-website/static/js/main.e3d59075.chunk.js",
+    "main.js.map": "/Adventure-website/static/js/main.e3d59075.chunk.js.map",
+    "runtime-main.js": "/Adventure-website/static/js/runtime-main.cd858125.js",
+    "runtime-main.js.map": "/Adventure-website/static/js/runtime-main.cd858125.js.map",
+    "static/js/2.8cfce9a2.chunk.js": "/Adventure-website/static/js/2.8cfce9a2.chunk.js",
+    "static/js/2.8cfce9a2.chunk.js.map": "/Adventure-website/static/js/2.8cfce9a2.chunk.js.map",
+    "index.html": "/Adventure-website/index.html",
+    "static/css/main.5530a09f.chunk.css.map": "/Adventure-website/static/css/main.5530a09f.chunk.css.map",
+    "static/js/2.8cfce9a2.chunk.js.LICENSE.txt": "/Adventure-website/static/js/2.8cfce9a2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Adventure-website/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/Adventure-website/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/Adventure-website/static/media/img-4.a31875b7.jpg",
+    "static/media/img-7.dfeef525.jpg": "/Adventure-website/static/media/img-7.dfeef525.jpg",
+    "static/media/img-9.f97f588f.jpg": "/Adventure-website/static/media/img-9.f97f588f.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/Adventure-website/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd858125.js",
+    "static/js/2.8cfce9a2.chunk.js",
+    "static/css/main.5530a09f.chunk.css",
+    "static/js/main.e3d59075.chunk.js"
+  ]
+}
